@@ -1,4 +1,4 @@
-#　docker　でRailsの簡単環境設定
+# docker　でRailsの簡単環境設定
 
 ### 1
 アプリケーションを作るディレクトリにREADME.md以外のファイルをコピーして作業するディレクトリで 'docker-compose run web rails new . --force --database=postgresql --skip-bundle' を実行。
